@@ -37,4 +37,4 @@ We propose a novel stepwise triangle counting algorithm (StepTC). StepTC selects
 | s25.kron     | 1854  |
 
 ## Datasets
-    Available in 
+    Available in anonymized link https://1drv.ms/f/s!AgBBoeGgKB9agRF9BC2omHXk5Wbi?e=vrFLeJ
